@@ -1,0 +1,29 @@
+{
+  "name": "nas_download",
+  "version": "1.0.0",
+  "description": "able to download. used by Nas",
+  "scripts": {
+    "dev": "nodemon index.test",
+    "test": "node index.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericspiPb/nas_download.git"
+  },
+  "keywords": [
+    "NAS"
+  ],
+  "author": "Eric Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericspiPb/nas_download/issues"
+  },
+  "homepage": "https://github.com/ericspiPb/nas_download#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.5.5",
+    "nodemon": "^1.18.10"
+  }
+}
