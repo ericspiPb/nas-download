@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ericspiPb/nas_download#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.28.0"
   },
   "devDependencies": {
     "jsdoc": "^3.5.5",
